@@ -1,0 +1,30 @@
+
+
+
+
+AnchorPane{
+    -fx-background-color: #404258;
+}
+
+
+TextArea .content{
+    -fx-background-color: #E9DAC1;
+    -fx-text-fill: white;
+
+}
+
+Button{
+    -fx-background-color: #FB2576;
+    -fx-text-fill: white;
+}
+
+Button:hover{
+    -fx-background-color: #F7ECDE;
+    -fx-text-fill: black;
+}
+
+.root{
+    -fx-font-size: 16px;
+    -fx-font-family: "Britannic Bold";
+}
+
